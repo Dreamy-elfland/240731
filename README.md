@@ -1,5 +1,3 @@
-BUG_Author: monologue
-
 Vendor: https://www.weaver.com.cn
 
 POC:
